@@ -5,7 +5,7 @@
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
-    "gcpu": "./index.js"
+    "gcpu": "./index"
   },
   "repository": {
     "type": "git",
