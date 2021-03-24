@@ -1,11 +1,13 @@
 {
-  "name": "@mmatyi/g-cp",
+  "name": "gcpu",
   "version": "0.0.0-dev",
   "description": "g-cp is short for \"git commit & push\"",
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
-    "g-cp": "./index"
+    "gcp": "./index",
+    "gcpu": "./index"
+
   },
   "repository": {
     "type": "git",
