@@ -1,0 +1,21 @@
+{
+  "name": "g-cp",
+  "version": "0.0.0-dev",
+  "description": "g-cp is short for \"git commit & push\"",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "g-cp": "./index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatyiFKBT/g-cp.git"
+  },
+  "keywords": ["cli","commit","push","git"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatyiFKBT/g-cp/issues"
+  },
+  "homepage": "https://github.com/MatyiFKBT/g-cp#readme"
+}
