@@ -1,5 +1,5 @@
 {
-  "name": "g-cp",
+  "name": "@mmatyi/g-cp",
   "version": "0.0.0-dev",
   "description": "g-cp is short for \"git commit & push\"",
   "main": "index.js",
@@ -11,7 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/MatyiFKBT/g-cp.git"
   },
-  "keywords": ["cli","commit","push","git"],
+  "keywords": [
+    "cli",
+    "commit",
+    "push",
+    "git"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
