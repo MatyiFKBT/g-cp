@@ -1,7 +1,7 @@
 {
   "name": "gcpu",
   "version": "0.0.0-dev",
-  "description": "g-cp is short for \"git commit & push\"",
+  "description": "gcpu is short for \"git commit & push\"",
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
